@@ -10,4 +10,8 @@ public class UserMobileManagementApp {
 		SpringApplication.run(UserMobileManagementApp.class, args);
 	}
 
+	public static int main(){
+		return 1;
+	}
+
 }
